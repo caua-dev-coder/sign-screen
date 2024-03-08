@@ -1,15 +1,15 @@
 <h1>Interface de Login 🚀🚀</h1>
-<p>Essse projeto foi desenvolvido com o intuito de estudar as novas ferramentas e biblioteca que eu havia pesquisado sobre.</p>
-<h3> Ferramentas usadas: <h3/>
+<p>Este projeto foi concebido com o propósito de aprofundar meus estudos nas novas ferramentas e bibliotecas que havia pesquisado anteriormente.</p>
+<h3> Ferramentas empregadas: <h3/>
 <ul>
   <li>Radix</li>
   <li>React</li>
   <li>Tailwind</li>
   <li>ShadCn</li>
 </ul>
-<p>Nesse projeto em especifico eu procurei aprender a usar os componentes do Shad e estilizar eles, nesse caso me serviu muito bem apos entender que com essa combinacao de ferramentas eu sou capaz de desenvolver qualquer layout de forma pratica rapida e elegante</p>
+<p>No âmbito deste projeto específico, concentrei-me em aprender a utilizar os componentes do Shad e personalizá-los. Nesse contexto, percebi que a combinação dessas ferramentas me proporciona a capacidade de desenvolver layouts de maneira prática, rápida e elegante.</p>
 <br>
-<p>Eu Usei entao o TailwindCSS para a estilizacao de todos os componentes que por sua vez vem sem esilo algum pois o Radix por mais que nos forneca diversos componentes prontos para importarmos, todos eles acabam que vem sem estilo algum.</p>
+<p>Utilizei o TailwindCSS para estilizar todos os componentes, uma vez que o Radix, apesar de fornecer diversos componentes prontos para importação, não os estiliza. Essa abordagem revelou-se muito eficaz, permitindo-me criar interfaces visualmente atraentes de forma eficiente.</p>
 <br>
 <h3>Imagem do Projeto completo:</h3>
   <p>📸📸📷</p>
